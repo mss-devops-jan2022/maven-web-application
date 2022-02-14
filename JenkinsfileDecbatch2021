@@ -1,4 +1,4 @@
-node{
+node('nodes'){
 
 //Getting the  env  global varibale values
 
